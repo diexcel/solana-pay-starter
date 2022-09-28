@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "5",
+    "description": "Get this fire emoji pack for only $5!",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmTs4t2VKVmCpQqX1Baojb8og3fjd5e4APcjGZ9PCmfFNm",
+    "filename": "Animal.jpg",
+    "hash": "QmTs4t2VKVmCpQqX1Baojb8og3fjd5e4APcjGZ9PCmfFNm"
+  },
+  {
+    "id": 2,
+    "name": "Shiba Shiva",
+    "price": "10",
+    "image_url": "https://media0.giphy.com/media/VRKheDy4DkBMrQm66p/giphy.gif?cid=ecf05e47dn229yh6agzyfgrclhagmmxw8es3ks0ose0h5rad&rid=giphy.gif&ct=g",
+    "description": "Shiba Inu meme"
+  }
+]
